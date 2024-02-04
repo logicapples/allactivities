@@ -1,0 +1,14 @@
+{
+    "name": "All Activities",
+    "description": "dont you hate it when you cant view them all?.",
+    "authors": [
+        {
+            "name": "blaz6",
+            "id": "1160680423647612958"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
